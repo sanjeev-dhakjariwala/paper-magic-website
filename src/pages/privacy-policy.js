@@ -151,6 +151,9 @@ const PrivacyPolicy = () => {
           behavioral tracking
         </p>
         <p className="font-bold underline">
+          COPPA (Children Online Privacy Protection Act)
+        </p>
+        <p>
           When it comes to the collection of personal information from children
           under the age of 13 years old, the Children's Online Privacy
           Protection Act (COPPA) puts parents in control. The Federal Trade
@@ -170,6 +173,47 @@ const PrivacyPolicy = () => {
           they should be implemented is critical to comply with the various
           privacy laws that protect personal information.
         </p>
+        <p className="font-bold">
+          In order to be in line with Fair Information Practices we will take
+          the following responsive action, should a data breach occur:
+        </p>
+        <ul className="list-disc px-8">
+          <li>We will notify you via email Within 7 business days </li>
+          <li>We will notify the users via in-site notification </li>
+        </ul>
+        <p>
+          We also agree to the Individual Redress Principle which requires that
+          individuals have the right to legally pursue enforceable rights
+          against data collectors and processors who fail to adhere to the law.
+          This principle requires not only that individuals have enforceable
+          rights against data users, but also that individuals have recourse to
+          courts or government agencies to investigate and/or prosecute
+          non-compliance by data processors.{" "}
+        </p>
+        <p className="font-bold underline">CAN SPAM Act</p>
+        <p>
+          The CAN-SPAM Act is a law that sets the rules for commercial email,
+          establishes requirements for commercial messages, gives recipients the
+          right to have emails stopped from being sent to them, and spells out
+          tough penalties for violations.{" "}
+        </p>
+        <p className="font-bold">
+          To be in accordance with CANSPAM, we agree to the following :{" "}
+        </p>
+        <ul className="list-disc px-8">
+          <li>Not use false or misleading subjects or email addresses. </li>
+        </ul>
+        <p className="font-bold underline">Contacting Us</p>
+        <p>
+          If there are any questions regarding this privacy policy, you may
+          contact us using the information below.{" "}
+        </p>
+        <p className="font-bold mx-8">Kishan Rathi</p>
+        <p className="mx-8">201/5 Debaipukur Road</p>
+        <p className="mx-8">Flat no - 302, Block - B,</p>
+        <p className="mx-8">Eminent Complex - V</p>
+        <p className="mx-8">Hindmotor, 712233</p>
+        <p className="mx-8 font-bold">Mobile: +91 76855002094</p>
       </div>
     </div>
   );

@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <NavBar />
-      <p>Welcome to Paper Magic Supplies!</p>
+      <p className="font-bold text-center text-4xl mt-4">Welcome to Paper Magic Supplies!</p>
     </>
   );
 }
