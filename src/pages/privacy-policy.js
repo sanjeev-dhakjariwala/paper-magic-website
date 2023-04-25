@@ -7,8 +7,8 @@ const PrivacyPolicy = () => {
         </h1>
         <p className="mb-4">
           This privacy policy has been compiled to better serve those who are
-          concerned with how their &apos;Personally Identifiable
-          Information&apos; (PII) is being used online. PII, as described in US
+          concerned with how their `'`Personally Identifiable
+          Information`'` (PII) is being used online. PII, as described in US
           privacy law and information security, is information that can be used
           on its own or with other information to identify, contact, or locate a
           single person, or to identify an individual in context. Please read
@@ -44,14 +44,14 @@ const PrivacyPolicy = () => {
               have to use our app inbuilt camera capture feature for sending us
               the information related to any product or service pertaining to
               our business with you. The feature is entirely based and
-              controlled on your consent which unless you chose won&apos;t allow
+              controlled on your consent which unless you chose won`'`t allow
               us to have any of your data in any form received by us.
             </li>
             <li>
               <span className="font-bold">Network Information: </span> Our app
               is totally internet dependent and would not work unless your
               device has a sufficient data speed over the internet, for which we
-              require to determine your device&apos;s network state
+              require to determine your device`'`s network state
             </li>
             <li>
               <span className="font-bold">Location : </span> In case if our
@@ -77,7 +77,7 @@ const PrivacyPolicy = () => {
           certificate We do not need an SSL because we don't have payment
           gateway
         </p>
-        <p className="font-bold">5. Do we use &apos;cookies&apos;?</p>
+        <p className="font-bold">5. Do we use `'`cookies`'`?</p>
         <p className="mb-4">
           We do not use cookies for tracking purposes You can choose to have
           your computer warn you each time a cookie is being sent, or you can
